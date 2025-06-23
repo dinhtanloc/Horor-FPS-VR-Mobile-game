@@ -1,5 +1,0 @@
-C:/Users/Admin/Data/VR_Game_Mobile/.utmp/RelWithDebInfo/146u703d/armeabi-v7a/CMakeFiles/edit_cache.dir
-C:/Users/Admin/Data/VR_Game_Mobile/.utmp/RelWithDebInfo/146u703d/armeabi-v7a/CMakeFiles/rebuild_cache.dir
-C:/Users/Admin/Data/VR_Game_Mobile/.utmp/RelWithDebInfo/146u703d/armeabi-v7a/FramePacing/CMakeFiles/swappywrapper.dir
-C:/Users/Admin/Data/VR_Game_Mobile/.utmp/RelWithDebInfo/146u703d/armeabi-v7a/FramePacing/CMakeFiles/edit_cache.dir
-C:/Users/Admin/Data/VR_Game_Mobile/.utmp/RelWithDebInfo/146u703d/armeabi-v7a/FramePacing/CMakeFiles/rebuild_cache.dir
