@@ -1,7 +1,4 @@
-Dưới đây là toàn bộ nội dung `README.md` được **bao bọc trong dấu ngoặc kép `"`**, đảm bảo **không bị mất định dạng khi sử dụng trong mã nguồn hoặc chuỗi Python**, bạn có thể copy trực tiếp:
-
-````markdown
-"# 🧠 Abandoned Asylum Adventure - Mobile VR Unity Game with ESP32 Controller
+# 🧠 Abandoned Asylum Adventure - Mobile VR Unity Game with ESP32 Controller
 
 Welcome to **Abandoned Asylum Adventure**, a mobile VR first-person shooting game designed for immersive interaction at low cost. This project explores how to optimize virtual reality on mobile platforms using Unity, custom hardware, and artificial intelligence — with a strong emphasis on human-computer interaction (HCI), gameplay, and system performance.
 
@@ -48,9 +45,7 @@ Features include:
 - Fire: Trigger button on ESP32 board
 - Move: Head rotation via Google Cardboard
 
-```plaintext
 [ESP32] --(MPU6050)--> Process motion --> UDP --> [Unity (Mobile VR)]
-````
 
 ## 🤖 AI & Machine Learning Integration
 
@@ -146,11 +141,6 @@ This makes the game scalable, suitable for training simulations, STEM education,
 * Newzoo Global Games Market Report (2022)
   "
 
-```
 
----
 
-✅ Bạn có thể chép chuỗi trên vào file `.py`, `.json`, hoặc bất kỳ hệ thống nào yêu cầu chuỗi giữ nguyên format Markdown.
 
-Nếu bạn muốn chia nhỏ chuỗi theo từng đoạn hoặc chuyển sang file `.md` thực tế, mình có thể tạo giúp ngay. Bạn cũng có thể yêu cầu mình tạo ảnh sơ đồ hoặc minh họa như `gameplay_flow.png` và `ai_pipeline.png`. Muốn không?
-```
