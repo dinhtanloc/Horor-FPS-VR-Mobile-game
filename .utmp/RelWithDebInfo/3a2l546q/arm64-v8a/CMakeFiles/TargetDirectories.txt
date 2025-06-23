@@ -1,5 +1,0 @@
-C:/Users/PC/Data/VR_Game_Mobile/.utmp/RelWithDebInfo/3a2l546q/arm64-v8a/CMakeFiles/edit_cache.dir
-C:/Users/PC/Data/VR_Game_Mobile/.utmp/RelWithDebInfo/3a2l546q/arm64-v8a/CMakeFiles/rebuild_cache.dir
-C:/Users/PC/Data/VR_Game_Mobile/.utmp/RelWithDebInfo/3a2l546q/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
-C:/Users/PC/Data/VR_Game_Mobile/.utmp/RelWithDebInfo/3a2l546q/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
-C:/Users/PC/Data/VR_Game_Mobile/.utmp/RelWithDebInfo/3a2l546q/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir
