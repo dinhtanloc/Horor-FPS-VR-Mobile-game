@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: baf7984d079cf8646a691c6cc4634702
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217234
+  packageName: "Alteruna Multiplayer SDK \u2013 Free Cloud Solution"
+  packageVersion: 1.3.4u11
+  assetPath: Assets/Alteruna/Prefabs/RoomBrowser/Scripts/BaseRoomBrowser.cs
+  uploadId: 729234

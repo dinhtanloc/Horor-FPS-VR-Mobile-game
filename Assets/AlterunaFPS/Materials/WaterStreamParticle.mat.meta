@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8ea6ed53aae46fe4e83d154e73aed27e
+timeCreated: 1474452197
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 259143
+  packageName: Multiplayer FPS Template
+  packageVersion: 1.1.1
+  assetPath: Assets/AlterunaFPS/Materials/WaterStreamParticle.mat
+  uploadId: 637707

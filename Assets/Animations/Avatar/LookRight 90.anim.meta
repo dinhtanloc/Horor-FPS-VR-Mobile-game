@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8dd4484d8801fcc489cb620684fde428
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 259143
+  packageName: Multiplayer FPS Template
+  packageVersion: 1.1.1
+  assetPath: Assets/Animations/Avatar/LookRight 90.anim
+  uploadId: 637707

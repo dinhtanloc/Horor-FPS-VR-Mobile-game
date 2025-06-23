@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8ae8ed010fa75f44ca00084dd964ceea
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 259143
+  packageName: Multiplayer FPS Template
+  packageVersion: 1.1.1
+  assetPath: Assets/AlterunaFPS/Prefab/Environment.prefab
+  uploadId: 637707

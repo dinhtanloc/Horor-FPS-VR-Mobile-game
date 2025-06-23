@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 595be7b1c4ef36244a793836f4bf06a5
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 259143
+  packageName: Multiplayer FPS Template
+  packageVersion: 1.1.1
+  assetPath: Assets/AlterunaFPS/Efx/BulletFX.prefab
+  uploadId: 637707

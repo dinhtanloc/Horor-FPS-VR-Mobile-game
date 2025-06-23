@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d771645f9ac10d241b18277409d02a55
+timeCreated: 1473942081
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 259143
+  packageName: Multiplayer FPS Template
+  packageVersion: 1.1.1
+  assetPath: Assets/AlterunaFPS/Materials/BulletFleshDecal.mat
+  uploadId: 637707

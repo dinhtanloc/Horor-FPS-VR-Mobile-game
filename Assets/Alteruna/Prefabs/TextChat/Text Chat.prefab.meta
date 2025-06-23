@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b5237b32a25be3c4988b935302072ed9
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217234
+  packageName: "Alteruna Multiplayer SDK \u2013 Free Cloud Solution"
+  packageVersion: 1.3.4u11
+  assetPath: Assets/Alteruna/Prefabs/TextChat/Text Chat.prefab
+  uploadId: 729234

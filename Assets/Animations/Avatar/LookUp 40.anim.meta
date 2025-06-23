@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0682584a36a5bc643b17fc088b44f86a
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 259143
+  packageName: Multiplayer FPS Template
+  packageVersion: 1.1.1
+  assetPath: Assets/Animations/Avatar/LookUp 40.anim
+  uploadId: 637707

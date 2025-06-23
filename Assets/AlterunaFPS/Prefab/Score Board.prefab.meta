@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fe6e9076610e5904283d9fe4935a4854
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 259143
+  packageName: Multiplayer FPS Template
+  packageVersion: 1.1.1
+  assetPath: Assets/AlterunaFPS/Prefab/Score Board.prefab
+  uploadId: 637707

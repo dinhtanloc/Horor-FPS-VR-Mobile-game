@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: bf73b898a672b814ab23ad7175db7f9d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217234
+  packageName: "Alteruna Multiplayer SDK \u2013 Free Cloud Solution"
+  packageVersion: 1.3.4u11
+  assetPath: Assets/Alteruna/Prefabs/TextChat/TextChatSynchronizable.cs
+  uploadId: 729234

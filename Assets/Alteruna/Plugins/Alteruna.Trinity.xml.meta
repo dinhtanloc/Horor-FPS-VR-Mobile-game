@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 63cb4315fdcff3843bf0265c9b63f17e
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217234
+  packageName: "Alteruna Multiplayer SDK \u2013 Free Cloud Solution"
+  packageVersion: 1.3.4u11
+  assetPath: Assets/Alteruna/Plugins/Alteruna.Trinity.xml
+  uploadId: 729234

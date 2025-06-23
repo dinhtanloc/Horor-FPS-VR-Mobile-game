@@ -1,0 +1,73 @@
+# Unity generated files
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Uu]ser[Ss]ettings/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+# Visual Studio / MonoDevelop generated files
+/[Aa]se/
+/[Aa]rtifacts/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+
+# Resharper
+*.dotSettings
+*.dotSettings.user
+
+# NuGet Packages
+packages/
+
+# Windows image file caches
+/ thumbs.db
+
+# Others
+*.orig
+*.meta~  # Ignore .meta~ conflict files created by git merge
+
+# Optional: Ignore exported packages (if any)
+/[Ee]xport/
+
+# Android build files (if using Android)
+/[Aa]ndroid/build/
+/[Aa]ndroid/app/build/
+
+# iOS build files (if using iOS)
+/[Ii]OSBuild/
+
+# Node modules (if using npm/yarn)
+node_modules/
+Abandoned_Asylum/
+Monster Roars/
+Creep Horror Creature/
+DARK ATMOSPHERIC_FREE Track/
+Flying Beetle/
+MonsterMutant 7/
+Zombie/
+# Logs and crash reports
+*.log
+/[Uu]ser[Ss]ettings/Editor.log
+/[Uu]ser[Ss]ettings/Editor-prev.log
+/[Tt]emp/__savedata/
+/[Tt]emp/UnityPlayer.pid
+/[Tt]emp/UnityPlayer.log
+/[Tt]emp/UnityPlayer-prev.log
+.vs/

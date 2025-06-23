@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 8e0b08634098980448e32bcb63b97fa5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217234
+  packageName: "Alteruna Multiplayer SDK \u2013 Free Cloud Solution"
+  packageVersion: 1.3.4u11
+  assetPath: Assets/Alteruna/Prefabs/TextChat/TextChatCommands/CommandRotate.cs
+  uploadId: 729234

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fd8ebe3c7242d364bae68f1548ae70bf
+timeCreated: 1473952868
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 259143
+  packageName: Multiplayer FPS Template
+  packageVersion: 1.1.1
+  assetPath: Assets/AlterunaFPS/Materials/WoodSplintersParticle.mat
+  uploadId: 637707

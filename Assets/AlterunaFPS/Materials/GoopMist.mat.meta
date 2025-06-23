@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 22bd383795fb6f34b93b51a4caa75781
+timeCreated: 1473942560
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 259143
+  packageName: Multiplayer FPS Template
+  packageVersion: 1.1.1
+  assetPath: Assets/AlterunaFPS/Materials/GoopMist.mat
+  uploadId: 637707

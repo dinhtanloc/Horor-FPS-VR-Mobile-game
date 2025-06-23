@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 510a98486619f7d448f3a0fbd8001566
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217234
+  packageName: "Alteruna Multiplayer SDK \u2013 Free Cloud Solution"
+  packageVersion: 1.3.4u11
+  assetPath: Assets/Alteruna/Prefabs/RoomBrowser/Scripts/CreateRoomMenu.cs
+  uploadId: 729234

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0be0bbce52423c9489e0e393d6ca54a6
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 259143
+  packageName: Multiplayer FPS Template
+  packageVersion: 1.1.1
+  assetPath: Assets/AlterunaFPS/Prefab/EFX.prefab
+  uploadId: 637707

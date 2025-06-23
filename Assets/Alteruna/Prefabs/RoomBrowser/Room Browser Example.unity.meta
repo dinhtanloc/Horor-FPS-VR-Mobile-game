@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c31cb20f00eb6bc4e8b4395bbf37caa7
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217234
+  packageName: "Alteruna Multiplayer SDK \u2013 Free Cloud Solution"
+  packageVersion: 1.3.4u11
+  assetPath: Assets/Alteruna/Prefabs/RoomBrowser/Room Browser Example.unity
+  uploadId: 729234

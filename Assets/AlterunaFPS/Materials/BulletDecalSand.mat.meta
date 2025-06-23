@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0a35d64bb8fd24f47b8bf3802f71313b
+timeCreated: 1473678406
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 259143
+  packageName: Multiplayer FPS Template
+  packageVersion: 1.1.1
+  assetPath: Assets/AlterunaFPS/Materials/BulletDecalSand.mat
+  uploadId: 637707

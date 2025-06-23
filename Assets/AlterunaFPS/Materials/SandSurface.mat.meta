@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 26bc8648a85c6b041a5d5b00ca61062b
+timeCreated: 1474987722
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 259143
+  packageName: Multiplayer FPS Template
+  packageVersion: 1.1.1
+  assetPath: Assets/AlterunaFPS/Materials/SandSurface.mat
+  uploadId: 637707

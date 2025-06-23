@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: fbf365de99694b98993249a1aceccd1c
+timeCreated: 1679486393
+AssetOrigin:
+  serializedVersion: 1
+  productId: 217234
+  packageName: "Alteruna Multiplayer SDK \u2013 Free Cloud Solution"
+  packageVersion: 1.3.4u11
+  assetPath: Assets/Alteruna/Scripts/Examples/ExampleRpcProcedureParameters.cs
+  uploadId: 729234
