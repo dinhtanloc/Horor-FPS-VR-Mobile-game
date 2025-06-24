@@ -13,6 +13,10 @@ Traditional PC-based VR systems are often expensive and limited by high-end hard
 - AI-based gameplay personalization
 - Multiplayer via Photon Networking
 
+[VR-Game-mobile](https://github.com/dinhtanloc/Horor-FPS-VR-Mobile-game) 
+
+[VR-Game-Hardware](https://github.com/dinhtanloc/Using-MPU-and-ESP32-to-make-AutoGun-for-VR-mobile-game) 
+
 ### Key Goals:
 - Create an immersive and responsive VR experience
 - Replace traditional gamepads with a physical gun-shaped motion controller
@@ -122,7 +126,7 @@ This makes the game scalable, suitable for training simulations, STEM education,
 
 ## 📽️ Demo Preview
 
-![Gameplay Demo](assets/demo.gif)
+![Gameplay Demo](gif/demo.gif)
 
 
 ## 📂 Repository Structure
