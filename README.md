@@ -2,7 +2,7 @@
 
 Welcome to **Abandoned Asylum Adventure**, a mobile VR first-person shooting game designed for immersive interaction at low cost. This project explores how to optimize virtual reality on mobile platforms using Unity, custom hardware, and artificial intelligence — with a strong emphasis on human-computer interaction (HCI), gameplay, and system performance.
 
-![Abandoned Asylum Environment](assets/asylum_map.jpg)
+![Abandoned Asylum Environment](assets/image copy 2.jpg)
 
 ## 🎯 Project Overview
 
@@ -30,7 +30,7 @@ Features include:
 - Multiplayer mode: Co-op and PvP using Photon
 - AI enemies with behavior adaptation
 
-![Gameplay Flow](assets/gameplay_flow.png)
+![Gameplay Flow](assets/imagecopy3.png)
 
 ## 🕹️ Game Control & Interaction (HCI)
 
@@ -69,7 +69,7 @@ We trained and compared multiple models (Random Forest, LSTM, MLB). **MLB** was 
 * Dynamic level adaptation
 * Player skill assessment
 
-![AI Integration](assets/ai_pipeline.png)
+![AI Integration](assets/imagecopy4.png)
 
 ## 🌐 Multiplayer Architecture
 
